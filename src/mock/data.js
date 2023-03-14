@@ -40,7 +40,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'reciepe.png',
+    img: 'recipe.png',
     title: 'Recipe app',
     info: 'Recipe app is a simple app where you can find your recipe for specific food.l use Api from Edamam.com to fetch the data.I deployed it using Netlify.Feel free to test the app and find your favourite recipe. ',
     info2: '',

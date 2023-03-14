@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React, { useContext } from 'react';
 import Fade from 'react-reveal/Fade';
 import { Container } from 'react-bootstrap';
@@ -21,7 +22,9 @@ const Contact = () => {
               target="_blank"
               rel="noopener noreferrer"
               className="cta-btn cta-btn--resume"
-              href={email ? `mailto:${email}` : 'https://github.com/cobidev/react-simplefolio'}
+              href={
+                email ? `mailto:${email}` : 'https://www.linkedin.com/in/amar-omerika-4b7625208/'
+              }
             >
               {btn || "Let's Talk"}
             </a>
