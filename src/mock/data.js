@@ -62,7 +62,7 @@ export const projectsData = [
     title: 'Keeper App',
     info: 'Keeper App is an app where you can add your notes and delete them.This app was made usinG React framework.',
     info2: '',
-    url: 'https://www.linkedin.com/posts/amar-omerika-4b7625208_project-react-experience-activity-6796879346196905984-HBwV?utm_source=share&utm_medium=member_desktop',
+    url: 'https://visionary-chimera-800cf2.netlify.app',
     repo: 'https://github.com/Amar-Omerika/Keeper-App', // if no repo, the button will not show up
   },
 ];
