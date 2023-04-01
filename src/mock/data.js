@@ -56,6 +56,15 @@ export const projectsData = [
     url: 'https://www.linkedin.com/posts/amar-omerika-4b7625208_design-react-project-activity-6915647469884194816-J3is?utm_source=share&utm_medium=member_desktop',
     repo: 'https://github.com/Amar-Omerika/FtinessApp', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'keeper.png',
+    title: 'Keeper App',
+    info: 'Keeper App is an app where you can add your notes and delete them.This app was made usinG React framework.',
+    info2: '',
+    url: 'https://www.linkedin.com/posts/amar-omerika-4b7625208_project-react-experience-activity-6796879346196905984-HBwV?utm_source=share&utm_medium=member_desktop',
+    repo: 'https://github.com/Amar-Omerika/Keeper-App', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
