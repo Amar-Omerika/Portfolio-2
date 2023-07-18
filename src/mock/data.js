@@ -31,6 +31,15 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'memease.png',
+    title: 'Menea Website',
+    info: 'This is a website for a Swedish client for whom I worked. The technologies that I used to build this website are React.js and Tailwind. After finishing the website, I hosted it on loopia.com. You can check the website at this URL: https://menea.se/.',
+    info2: '',
+    url: 'https://menea.se/',
+    repo: 'https://github.com/Amar-Omerika/MeneaWebsite',
+  },
+  {
+    id: nanoid(),
     img: 'diet.png',
     title: 'Diet app',
     info: 'This is a simple app in React where you can type a certain amount of calories and the app gives you back three meals you can make in that range of calories. This app is good when you want to track your daily dose of calories but you don˝t know what to cook. For this App, I used Api from spoonacular.com',
