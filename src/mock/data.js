@@ -31,7 +31,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'memease.png',
+    img: 'menea.png',
     title: 'Menea Website',
     info: 'This is a website for a Swedish client for whom I worked. The technologies that I used to build this website are React.js and Tailwind. After finishing the website, I hosted it on loopia.com. You can check the website at this URL: https://menea.se/.',
     info2: '',
