@@ -58,6 +58,9 @@
     "type": "git",
     "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
   },
+  "overrides": {
+    "webpack": "^5.61.0"
+  },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
